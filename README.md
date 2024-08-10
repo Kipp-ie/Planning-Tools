@@ -3,7 +3,7 @@
 ---
 ![Banner](https://github.com/Kipp-ie/School-Planner/blob/main/Assets/banner.png)
 ---
-# Welcome to Planner Tools (For schools).
+# Welcome to Planning Tools (For schools).
 
 An open-source, easy planner for students. 
 
